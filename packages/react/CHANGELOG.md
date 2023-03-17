@@ -1,5 +1,11 @@
 # @gponte7-ignite-ui/react
 
+## 6.0.1
+
+### Patch Changes
+
+- Add option to pass reference to TextInput and ajust some styles
+
 ## 6.0.0
 
 ### Major Changes
