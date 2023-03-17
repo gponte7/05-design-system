@@ -1,5 +1,11 @@
 # @gponte7-ignite-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- Add new test color
+
 ## 5.0.0
 
 ### Major Changes
