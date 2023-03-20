@@ -1,0 +1,2 @@
+import{A as t}from"./index.a1435af8.js";import"./index.bd162dc3.js";import"./iframe.b481425f.js";import"./index.2a0989d9.js";import"./jsx-runtime.53a4f2fb.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gponte7.png",alt:"Guilherme Ponte"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.146feabe.js.map
