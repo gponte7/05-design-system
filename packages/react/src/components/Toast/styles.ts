@@ -15,7 +15,6 @@ export const ToastAlertContainer = styled(Toast.Viewport, {
 })
 
 export const ToastRoot = styled(Toast.Root, {
-  all: 'unset',
   width: '390px',
   padding: '$4',
   display: 'flex',

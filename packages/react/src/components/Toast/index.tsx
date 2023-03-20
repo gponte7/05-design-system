@@ -25,7 +25,7 @@ export function ToastAlert() {
         <ToastDescription>Sexta-feira, 17 de Março às 16h</ToastDescription>
       </ToastRoot>
 
-      <Toast.Viewport />
+      <ToastAlertContainer />
     </Toast.Provider>
   )
 }
